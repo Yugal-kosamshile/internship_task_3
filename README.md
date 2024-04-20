@@ -28,6 +28,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Credits
 This project is created and maintained by Yugal Y. Kosamshile.
-![success](https://github.com/Yugal-kosamshile/internship_task_3/assets/140834062/a9e1d684-d175-4b4d-babe-ab364b9b484d)
-![registration](https://github.com/Yugal-kosamshile/internship_task_3/assets/140834062/e30552b8-f2e8-4f6d-bb6c-f4e3dacafdb9)
-![login](https://github.com/Yugal-kosamshile/internship_task_3/assets/140834062/6b769c10-785a-482a-8344-370d57cbd179)
+![registration](https://github.com/Yugal-kosamshile/internship_task_3/assets/140834062/480bf31f-b5d4-4e5d-a124-1e8e9a1fc9d4)
+![success](https://github.com/Yugal-kosamshile/internship_task_3/assets/140834062/cd8a74c6-f15f-4b2b-8aca-15a3784ac6f3)
+![login](https://github.com/Yugal-kosamshile/internship_task_3/assets/140834062/96dd2e0d-f9af-4127-9a5c-b99d32eccfc0)
